@@ -1,4 +1,4 @@
-# Estudo do patterns Repository.
+# Estudo do repository pattern
 
 ### Objetivos
 
